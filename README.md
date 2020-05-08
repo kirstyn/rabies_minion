@@ -1,5 +1,5 @@
 # rapid-rabies
-Latest pipelines for nanopore based rabies virus sequencing. Pipelines are based on the ARTIC networks base template.
+Latest pipelines for nanopore based rabies virus (RABV) sequencing. Pipelines are forked from the ARTIC networks base template (https://github.com/artic-network/artic-base) and modified to be RABV specific.
 
 # install  
 To install the `Conda` environment use:
