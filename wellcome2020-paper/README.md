@@ -1,4 +1,4 @@
-# wellcome2020-paper
+# Repository for rabies rapid sequencing paper
 Resources and datasets used for rabies virus genomic surveillance in publication:  
 Brunker K, Jaswant G, Thumbi SM et al. Rapid in-country sequencing of whole virus genomes to inform rabies elimination programmes [version 1; peer review: 3 approved]. Wellcome Open Res 2020, 5:3 (https://doi.org/10.12688/wellcomeopenres.15518.1)  
 
