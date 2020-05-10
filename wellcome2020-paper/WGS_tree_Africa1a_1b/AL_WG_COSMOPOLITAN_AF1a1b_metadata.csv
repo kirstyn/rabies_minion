@@ -1,0 +1,248 @@
+taxa,aln,clade,member,source,sample_id,sample_id2,sequenceID,country,year,sequence.host,sequence.isolate
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/puredeadbrilliant_ken_2010818843,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,puredeadbrilliant_ken_2010818843,2010818843,MN726819,Kenya,2013,Homo sapiens,2010818843
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/JX473838,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,JX473838,JX473838,JX473838,Namibia,2009,jackal,178J09
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/JX473839,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,JX473839,JX473839,JX473839,Namibia,2009,jackal,192J09
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/JX473840,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,JX473840,JX473840,JX473840,Namibia,2009,Tragelaphus strepsiceros (Namibian kudu),239K09
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/JX473841,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,JX473841,JX473841,JX473841,Namibia,2009,Tragelaphus strepsiceros (Namibian kudu),240K09
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KF155001,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KF155001,KF155001,KF155001,Morocco,2009,Bos taurus,RV2627
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KF155002,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KF155002,KF155002,KF155002,Tanzania,2010,Canis familiaris,RV2772
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KP723638,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KP723638,KP723638,KP723638,Ethiopia,2014,Canis simensis,RV2985
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534217,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534217,KR534217,KR534217,Tanzania,2008,Canis familiaris,RV2490
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534218,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534218,KR534218,KR534218,Tanzania,2008,Canis familiaris,RV2491
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534219,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534219,KR534219,KR534219,Tanzania,2007,Canis familiaris,RV2492
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534220,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534220,KR534220,KR534220,Tanzania,2008,Canis familiaris,RV2493
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534228,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534228,KR534228,KR534228,Tanzania,2010,Canis familiaris,RV2788
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534229,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534229,KR534229,KR534229,Tanzania,2010,Canis familiaris,RV2789
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534230,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534230,KR534230,KR534230,Tanzania,2010,Canis familiaris,RV2790
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534231,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534231,KR534231,KR534231,Tanzania,2010,Canis familiaris,RV2791
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534232,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534232,KR534232,KR534232,Tanzania,2011,jackal,RV2792
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534233,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534233,KR534233,KR534233,Tanzania,2011,Canis familiaris,RV2794
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534234,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534234,KR534234,KR534234,Tanzania,2011,Bos taurus,RV2795
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534235,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534235,KR534235,KR534235,Tanzania,2011,Bos taurus,RV2796
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534236,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534236,KR534236,KR534236,Tanzania,2011,Bos taurus,RV2797
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534237,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534237,KR534237,KR534237,Tanzania,2011,Bos taurus,RV2798
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534238,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534238,KR534238,KR534238,Tanzania,2011,Canis familiaris,RV2800
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534244,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534244,KR534244,KR534244,Tanzania,2011,Canis familiaris,RV2889
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534245,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534245,KR534245,KR534245,Tanzania,2011,Bos taurus,RV2890
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534246,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534246,KR534246,KR534246,Tanzania,2011,civet,RV2891
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534247,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534247,KR534247,KR534247,Tanzania,2011,Canis familiaris,RV2892
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534248,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534248,KR534248,KR534248,Tanzania,2011,Bos taurus,RV2893
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534249,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534249,KR534249,KR534249,Tanzania,2011,Canis familiaris,RV2895
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534250,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534250,KR534250,KR534250,Tanzania,2011,Canis familiaris,RV2897
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534251,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534251,KR534251,KR534251,Tanzania,2011,Canis familiaris,RV2898
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534252,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534252,KR534252,KR534252,Tanzania,2011,Canis familiaris,RV2899
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534253,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534253,KR534253,KR534253,Tanzania,2011,Canis familiaris,RV2903
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534254,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534254,KR534254,KR534254,Tanzania,2011,Felis catus,RV2906
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR534256,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR534256,KR534256,KR534256,Tanzania,2011,Bos taurus,RV2909
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906734,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906734,KR906734,KR906734,Tanzania,2008,Canis familiaris,RV2495.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906735,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906735,KR906735,KR906735,Tanzania,2008,Canis familiaris,RV2498.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906736,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906736,KR906736,KR906736,Tanzania,2008,Canis familiaris,RV2499.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906737,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906737,KR906737,KR906737,Tanzania,2008,Canis familiaris,RV2500.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906738,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906738,KR906738,KR906738,Tanzania,2004,Bos taurus,RV2501.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906739,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906739,KR906739,KR906739,Tanzania,2004,Canis familiaris,RV2502.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906740,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906740,KR906740,KR906740,Tanzania,2009,Felis catus,RV2503.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906741,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906741,KR906741,KR906741,Tanzania,2003,Canis familiaris,RV2504.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906742,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906742,KR906742,KR906742,Tanzania,2009,Canis familiaris,RV2767.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906743,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906743,KR906743,KR906743,Tanzania,2010,Canis familiaris,RV2770.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906744,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906744,KR906744,KR906744,Tanzania,2010,Canis familiaris,RV2771.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906745,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906745,KR906745,KR906745,Tanzania,2010,Canis familiaris,RV2773.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906746,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906746,KR906746,KR906746,Tanzania,2010,Canis familiaris,RV2774.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906747,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906747,KR906747,KR906747,Tanzania,2010,Canis familiaris,RV2775.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906748,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906748,KR906748,KR906748,Tanzania,2010,Canis familiaris,RV2776.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906749,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906749,KR906749,KR906749,Tanzania,2010,Canis familiaris,RV2777.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906750,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906750,KR906750,KR906750,Tanzania,2010,Canis familiaris,RV2778.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906751,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906751,KR906751,KR906751,Tanzania,2011,Canis familiaris,RV2780.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906752,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906752,KR906752,KR906752,Tanzania,2011,Canis familiaris,RV2782.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906753,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906753,KR906753,KR906753,Tanzania,2011,Bos taurus,RV2783.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906754,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906754,KR906754,KR906754,Tanzania,2011,Canis familiaris,RV2784.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906755,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906755,KR906755,KR906755,Tanzania,2011,Canis familiaris,RV2793.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906756,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906756,KR906756,KR906756,Tanzania,2011,Canis familiaris,RV2799.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906757,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906757,KR906757,KR906757,Tanzania,2010,Canis familiaris,RV2807.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906758,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906758,KR906758,KR906758,Tanzania,2010,Ovis aries,RV2808.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906759,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906759,KR906759,KR906759,Tanzania,2010,Canis familiaris,RV2809.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906760,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906760,KR906760,KR906760,Tanzania,2010,Canis familiaris,RV2810.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906761,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906761,KR906761,KR906761,Tanzania,2010,Canis familiaris,RV2811.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906762,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906762,KR906762,KR906762,Tanzania,2010,Canis familiaris,RV2813.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906763,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906763,KR906763,KR906763,Tanzania,2010,Canis familiaris,RV2814.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906764,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906764,KR906764,KR906764,Tanzania,2010,Capra hircus,RV2815.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906765,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906765,KR906765,KR906765,Tanzania,2010,Canis familiaris,RV2816.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906766,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906766,KR906766,KR906766,Tanzania,2010,Canis familiaris,RV2817.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906767,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906767,KR906767,KR906767,Tanzania,2011,Canis familiaris,RV2861.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906768,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906768,KR906768,KR906768,Tanzania,2011,Canis familiaris,RV2862.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906769,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906769,KR906769,KR906769,Tanzania,2011,Canis familiaris,RV2871.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906770,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906770,KR906770,KR906770,Tanzania,2011,Canis familiaris,RV2875.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906771,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906771,KR906771,KR906771,Tanzania,2011,Canis familiaris,RV2894.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906772,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906772,KR906772,KR906772,Tanzania,2011,Canis familiaris,RV2896.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906773,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906773,KR906773,KR906773,Tanzania,2011,Canis familiaris,RV2900.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906774,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906774,KR906774,KR906774,Tanzania,2011,Canis familiaris,RV2901.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906775,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906775,KR906775,KR906775,Tanzania,2011,unknown,RV2902.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906776,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906776,KR906776,KR906776,Tanzania,2011,Canis familiaris,RV2907.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906777,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906777,KR906777,KR906777,Tanzania,2011,unknown,RV3091.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906778,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906778,KR906778,KR906778,Tanzania,2011,unknown,RV3093.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906779,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906779,KR906779,KR906779,Tanzania,2012,Bos taurus,RV3100.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906780,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906780,KR906780,KR906780,Tanzania,2011,Canis familiaris,RV3104.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906781,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906781,KR906781,KR906781,Tanzania,2012,unknown,RV3107.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906782,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906782,KR906782,KR906782,Tanzania,2012,Canis familiaris,RV3111.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906783,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906783,KR906783,KR906783,Tanzania,2012,Canis familiaris,RV3117.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906784,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906784,KR906784,KR906784,Tanzania,2012,Canis familiaris,RV3125.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906785,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906785,KR906785,KR906785,Tanzania,2012,unknown,RV3127.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906786,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906786,KR906786,KR906786,Tanzania,2012,Sus scrofa,RV3128.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906787,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906787,KR906787,KR906787,Tanzania,2012,Bos taurus,RV3131.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906788,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906788,KR906788,KR906788,Tanzania,2012,Bos taurus,RV3132.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906789,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906789,KR906789,KR906789,Tanzania,2012,Canis familiaris,RV3133.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906790,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906790,KR906790,KR906790,Tanzania,2012,Canis familiaris,RV3140.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906791,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906791,KR906791,KR906791,Tanzania,2012,Canis familiaris,RV3149.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KR906792,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KR906792,KR906792,KR906792,Tanzania,2012,Canis familiaris,RV3123.1
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KT336432,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KT336432,KT336432,KT336432,South Africa,2012,Canis lupus familiaris,55612
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KT336433,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KT336433,KT336433,KT336433,Zimbabwe,1991,Canis lupus familiaris,20034
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KT336434,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KT336434,KT336434,KT336434,Zimbabwe,1992,Canis lupus familiaris,21057
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KT336435,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KT336435,KT336435,KT336435,Zimbabwe,1993,Canis lupus familiaris,21467
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KT336436,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KT336436,KT336436,KT336436,South Africa,2012,Canis lupus familiaris,33512
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KT336437,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KT336437,KT336437,KT336437,South Africa,2012,Canis lupus familiaris,34312
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148103,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148103,KX148103,KX148103,South Africa,1981,Homo sapiens,87021AFS
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148162,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148162,KX148162,KX148162,outgroup,-,,
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148190,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148190,KX148190,KX148190,outgroup,-,,
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148191,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148191,KX148191,KX148191,outgroup,-,,
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148193,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148193,KX148193,KX148193,Morocco,2008,Canis familiaris,08342FRA
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148194,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148194,KX148194,KX148194,Morocco,1989,Canis familiaris,89017MAR
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148195,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148195,KX148195,KX148195,Morocco,2004,Canis familiaris,04031FRA
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148196,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148196,KX148196,KX148196,Morocco,1990,Canis familiaris,90016MAR
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148197,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148197,KX148197,KX148197,Algeria,2015,Canis familiaris,15006FRA
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148198,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148198,KX148198,KX148198,Somalia,1993,Canis familiaris,93128SOM
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148199,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148199,KX148199,KX148199,Somalia,1993,jackal,93006SOM
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148200,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148200,KX148200,KX148200,Ethiopia,1988,Canis familiaris,88008ETH
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148201,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148201,KX148201,KX148201,Nigeria,1986,Canis familiaris,86003BRE
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148202,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148202,KX148202,KX148202,Gabon,1995,Canis familiaris,95049GAB
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148203,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148203,KX148203,KX148203,Mozambique,1986,Canis familiaris,86031MOZ
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148204,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148204,KX148204,KX148204,Namibia,1992,Canis familiaris,92030NAM
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148205,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148205,KX148205,KX148205,Rwanda,1994,Canis familiaris,94289RWA
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148206,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148206,KX148206,KX148206,Tanzania,1996,Canis familiaris,96013TAN
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148207,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148207,KX148207,KX148207,Kenya,2014,Homo sapiens,14015ITA
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KX148208,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KX148208,KX148208,KX148208,Central African Republic,1992,Canis familiaris,92029CAR
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210220,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210220,KY210220,KY210220,Tanzania,2008,Capra hircus,rv2483
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210221,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210221,KY210221,KY210221,Tanzania,2008,Capra hircus,rv2485
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210222,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210222,KY210222,KY210222,Tanzania,2009,Canis familiaris,rv2489
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210223,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210223,KY210223,KY210223,Tanzania,2007,Canis familiaris,rv2497
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210224,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210224,KY210224,KY210224,Tanzania,2010,Canis familiaris,rv2786
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210225,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210225,KY210225,KY210225,Tanzania,2011,Capra hircus,rv2858
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210226,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210226,KY210226,KY210226,Tanzania,2011,Canis familiaris,rv2859
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210227,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210227,KY210227,KY210227,Tanzania,2011,Canis familiaris,rv2863
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210228,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210228,KY210228,KY210228,Tanzania,2011,Capra hircus,rv2866
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210229,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210229,KY210229,KY210229,Tanzania,2011,Canis familiaris,rv2867
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210230,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210230,KY210230,KY210230,Tanzania,2011,Bos taurus,rv2868
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210231,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210231,KY210231,KY210231,Tanzania,2011,Canis familiaris,rv2870
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210232,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210232,KY210232,KY210232,Tanzania,2011,Canis familiaris,rv2873
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210233,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210233,KY210233,KY210233,Tanzania,2011,Capra hircus,rv2877
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210234,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210234,KY210234,KY210234,Tanzania,2011,Canis familiaris,rv2878
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210235,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210235,KY210235,KY210235,Tanzania,2011,Canis familiaris,rv2879
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210236,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210236,KY210236,KY210236,Tanzania,2011,Bos taurus,rv2880
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210237,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210237,KY210237,KY210237,Tanzania,2011,Bos taurus,rv2881
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210238,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210238,KY210238,KY210238,Tanzania,2011,Canis familiaris,rv2882
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210239,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210239,KY210239,KY210239,Tanzania,2011,Canis familiaris,rv2883
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210240,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210240,KY210240,KY210240,Tanzania,2011,Bos taurus,rv2884
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210241,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210241,KY210241,KY210241,Tanzania,2011,Capra hircus,rv2885
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210242,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210242,KY210242,KY210242,Tanzania,2011,Capra hircus,rv2886
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210243,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210243,KY210243,KY210243,Tanzania,2011,Canis familiaris,rv2887
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210244,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210244,KY210244,KY210244,Tanzania,2011,Canis familiaris,rv2888
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210245,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210245,KY210245,KY210245,Tanzania,2012,Canis familiaris,rv3047
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210246,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210246,KY210246,KY210246,Tanzania,2012,Ovis aries,rv3048
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210247,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210247,KY210247,KY210247,Tanzania,2012,Canis familiaris,rv3049
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210248,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210248,KY210248,KY210248,Tanzania,2012,Canis familiaris,rv3050
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210249,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210249,KY210249,KY210249,Tanzania,2012,Canis familiaris,rv3051
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210250,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210250,KY210250,KY210250,Tanzania,2012,Canis familiaris,rv3052
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210251,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210251,KY210251,KY210251,Tanzania,2012,Canis familiaris,rv3053
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210252,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210252,KY210252,KY210252,Tanzania,2012,Canis familiaris,rv3057
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210253,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210253,KY210253,KY210253,Tanzania,2013,Canis familiaris,rv3058
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210254,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210254,KY210254,KY210254,Tanzania,2013,Canis familiaris,rv3059
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210255,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210255,KY210255,KY210255,Tanzania,2013,Canis familiaris,rv3060
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210256,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210256,KY210256,KY210256,Tanzania,2013,Canis familiaris,rv3061
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210257,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210257,KY210257,KY210257,Tanzania,2013,Canis familiaris,rv3063
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210258,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210258,KY210258,KY210258,Tanzania,2013,Canis familiaris,rv3064
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210259,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210259,KY210259,KY210259,Tanzania,2013,Felis catus,rv3066
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210260,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210260,KY210260,KY210260,Tanzania,2013,Canis familiaris,rv3067
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210261,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210261,KY210261,KY210261,Tanzania,2013,Capra hircus,rv3068
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210262,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210262,KY210262,KY210262,Tanzania,2013,Capra hircus,rv3070
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210263,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210263,KY210263,KY210263,Tanzania,2013,Canis familiaris,rv3071
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210264,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210264,KY210264,KY210264,Tanzania,2013,Canis familiaris,rv3072
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210265,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210265,KY210265,KY210265,Tanzania,2013,Canis familiaris,rv3073
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210266,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210266,KY210266,KY210266,Tanzania,2013,Canis familiaris,rv3074
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210267,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210267,KY210267,KY210267,Tanzania,2013,Canis familiaris,rv3075
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210268,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210268,KY210268,KY210268,Tanzania,2013,Bos taurus,rv3078
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210269,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210269,KY210269,KY210269,Tanzania,2013,Canis familiaris,rv3079
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210270,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210270,KY210270,KY210270,Tanzania,2013,Canis familiaris,rv3080
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210271,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210271,KY210271,KY210271,Tanzania,2013,Canis familiaris,rv3082
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210272,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210272,KY210272,KY210272,Tanzania,2013,Canis familiaris,rv3084
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210273,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210273,KY210273,KY210273,Tanzania,2013,Canis familiaris,rv3085
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210274,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210274,KY210274,KY210274,Tanzania,2013,Bos taurus,rv3086
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210275,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210275,KY210275,KY210275,Tanzania,2013,Bos taurus,rv3087
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210276,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210276,KY210276,KY210276,Tanzania,2013,Bos taurus,rv3088
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210277,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210277,KY210277,KY210277,Tanzania,2011,Bos taurus,rv3090
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210278,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210278,KY210278,KY210278,Tanzania,2011,Canis familiaris,rv3092
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210279,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210279,KY210279,KY210279,Tanzania,2011,Canis familiaris,rv3094
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210280,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210280,KY210280,KY210280,Tanzania,2012,Canis familiaris,rv3096
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210281,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210281,KY210281,KY210281,Tanzania,2012,Canis familiaris,rv3097
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210282,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210282,KY210282,KY210282,Tanzania,2012,Canis familiaris,rv3098
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210283,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210283,KY210283,KY210283,Tanzania,2012,Bos taurus,rv3099
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210284,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210284,KY210284,KY210284,Tanzania,2012,Jackal,rv3101
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210285,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210285,KY210285,KY210285,Tanzania,2012,Capra hircus,rv3102
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210286,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210286,KY210286,KY210286,Tanzania,2011,Canis familiaris,rv3103
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210287,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210287,KY210287,KY210287,Tanzania,2012,Canis familiaris,rv3105
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210288,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210288,KY210288,KY210288,Tanzania,2012,Canis familiaris,rv3109
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210289,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210289,KY210289,KY210289,Tanzania,2012,Canis familiaris,rv3110
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210290,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210290,KY210290,KY210290,Tanzania,2012,Canis familiaris,rv3113
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210291,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210291,KY210291,KY210291,Tanzania,2012,Jackal,rv3114
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210292,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210292,KY210292,KY210292,Tanzania,2012,Canis familiaris,rv3115
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210293,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210293,KY210293,KY210293,Tanzania,2012,Canis familiaris,rv3119
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210294,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210294,KY210294,KY210294,Tanzania,2012,Canis familiaris,rv3121
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210295,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210295,KY210295,KY210295,Tanzania,2012,Canis familiaris,rv3122
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210296,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210296,KY210296,KY210296,Tanzania,2012,Canis familiaris,rv3124
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210297,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210297,KY210297,KY210297,Tanzania,2012,Ovis aries,rv3129
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210298,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210298,KY210298,KY210298,Tanzania,2012,Capra hircus,rv3130
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210299,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210299,KY210299,KY210299,Tanzania,2012,Canis familiaris,rv3134
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210300,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210300,KY210300,KY210300,Tanzania,2012,Canis familiaris,rv3135
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210301,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210301,KY210301,KY210301,Tanzania,2012,Bos taurus,rv3136
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210302,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210302,KY210302,KY210302,Tanzania,2012,Capra hircus,rv3137
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210303,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210303,KY210303,KY210303,Tanzania,2012,Canis familiaris,rv3138
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210304,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210304,KY210304,KY210304,Tanzania,2012,Canis familiaris,rv3139
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210305,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210305,KY210305,KY210305,Tanzania,2012,Hyena,rv3145
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210306,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210306,KY210306,KY210306,Tanzania,2012,Civet,rv3146
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210307,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210307,KY210307,KY210307,Tanzania,2012,Canis familiaris,rv3150
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210308,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210308,KY210308,KY210308,Tanzania,2012,Bos taurus,rv3151
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210309,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210309,KY210309,KY210309,Tanzania,2012,not available,rv3152
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210310,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210310,KY210310,KY210310,Tanzania,2012,Capra hircus,rv3153
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/KY210311,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,KY210311,KY210311,KY210311,Tanzania,2012,Canis familiaris,rv3154
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LC029889,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LC029889,LC029889,LC029889,Uganda,2009,Felis catus,UGbv13
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909528,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909528,LT909528,LT909528,-,-,unknown,20520
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909529,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909529,LT909529,LT909529,-,-,unknown,13122
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909531,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909531,LT909531,LT909531,-,-,unknown,13177
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909534,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909534,LT909534,LT909534,-,-,unknown,13465
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909535,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909535,LT909535,LT909535,-,-,unknown,13123
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909536,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909536,LT909536,LT909536,-,-,unknown,13471
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909542,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909542,LT909542,LT909542,-,-,unknown,13125
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909546,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909546,LT909546,LT909546,-,-,unknown,13135
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/LT909551,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,LT909551,LT909551,LT909551,-,-,unknown,13473
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/MG458318,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,MG458318,MG458318,MG458318,South Africa,2008,Homo sapiens,RV2481
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/ncbi-curated/MK981888,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,ncbi-curated,MK981888,MK981888,MK981888,Tunisia,1993,Canis familiaris,Ariana2
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/puredeadbrilliant_ken_2011100179dnase,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,puredeadbrilliant_ken_2011100179dnase,2011100179,MN726810,Kenya,2015,Homo sapiens,2011100179
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/unitid_all_ken_B397,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,unitid_all_ken_B397,B397,MN726821,Kenya,2018,Bos taurus,B397_field
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/unitid_all_ken_CA020,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,unitid_all_ken_CA020,CA020,MN726816,Kenya,2018,Capra hircus,CR020_field
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/unitid_all_ken_M009,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,unitid_all_ken_M009,M009,MN726814,Kenya,2018,feline,M009_field
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/tvla1_tz_pm015,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,tvla1_tz_pm015,pm015,MN726809,Tanzania,2016,Canis lupus familiaris,PM015
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/tvla1_tz_pm018,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,tvla1_tz_pm018,pm018,MN726835,Tanzania,2017,Canis lupus familiaris,PM018
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/unitid_all_ken_20026361,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,unitid_all_ken_20026361,20026361,MN726827,Kenya,2017,Canis lupus familiaris,Z0026361
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/apha_tz_rab16025,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,apha_tz_rab16025,rab16025,MN726826,Tanzania,2016,Canis familiaris,rab16025
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/tvla1_tz_pm023,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,tvla1_tz_pm023,pm023,MN726824,Tanzania,2016,Canis lupus familiaris,PM023
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/tvla1_tz_Rab16031,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,tvla1_tz_Rab16031,Rab16031,MN726824,Tanzania,2016,Canis lupus familiaris,RAB16031
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/tvla1_tz_rab16033,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,tvla1_tz_rab16033,rab16033,MN726802,Tanzania,2016,unknown,RAB16033
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/nmaist3_tz_SD577,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,nmaist3_tz_SD577,SD577,MN726815,Tanzania,2015,Canis mesomelas,SD577
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/nmaist3_tz_SD577sg,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,nmaist3_tz_SD577sg,SD577sg,MN726815,Tanzania,2015,Canis mesomelas,SD577SG
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/nmaist3_tz_SD601,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,nmaist3_tz_SD601,SD601,MN726818,Tanzania,2015,Canis lupus familiaris,SD601
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/nmaist3_tz_SD620,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,nmaist3_tz_SD620,SD620,MN726817,Tanzania,2016,Bos taurus,SD620
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/nmaist2_tz_SD622,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,nmaist2_tz_SD622,SD622,MN726808,Tanzania,2016,Canis lupus familiaris,SD622
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/mugumu1_tz_SD641,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,mugumu1_tz_SD641,SD641,MN726833,Tanzania,2017,Canis lupus familiaris,SD641
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/mugumu1_tz_SD683,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,mugumu1_tz_SD683,SD683,MN726820,Tanzania,2017,Felis catus,SD683
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/nmaistMay_tz_SD706,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,nmaistMay_tz_SD706,SD706,MN726823,Tanzania,2017,unknown,SD706
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/rabvMulti_tz_sub7087,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,rabvMulti_tz_sub7087,sub7087,MN726804,Tanzania,2015,Canis lupus familiaris,SUB7087
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/puredeadbrilliant_ken_z08138851,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,puredeadbrilliant_ken_z08138851,z08138851,MN726831,Kenya,2013,Bos taurus,Z08138851
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/puredeadbrilliant_ken_z0826362dnase,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,puredeadbrilliant_ken_z0826362dnase,z0826362,MN726812,Kenya,2017,Canis familiaris,Z0826362
+alignment/AL_WG_COSMOPOLITAN_AF1a1b/member/hampson-rabvea/puredeadbrilliant_ken_z0826752,alignment,AL_WG_COSMOPOLITAN_AF1a1b,member,this paper,puredeadbrilliant_ken_z0826752,z0826752,MN726830,Kenya,2018,Bos taurus,Z0826752
