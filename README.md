@@ -1,5 +1,6 @@
 # Rabies-minion  
-Latest pipelines for nanopore based rabies virus (RABV) sequencing. Pipelines are forked from the ARTIC networks base template (https://github.com/artic-network/artic-base) and modified to be RABV specific.
+Latest pipelines for nanopore based rabies virus (RABV) sequencing. Pipelines are forked from the ARTIC networks base template (https://github.com/artic-network/artic-base) and modified to be RABV specific.  
+Note that these pipelines are under development (i.e. they are being messed with) so may not work! For a working version please refer to the directory Wellcome2020
 
 # install  
 To install the rabies `Conda` environment use:
@@ -15,3 +16,5 @@ Then activate the environment using:
 ```
 conda activate <environment name>
 ```
+# Brunker et al (2020)  
+For pipeline/protocol versions associated with this paper please see the directory Wellcome2020!
