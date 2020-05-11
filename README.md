@@ -1,4 +1,4 @@
-# rapid-rabies
+# Rabies-minion  
 Latest pipelines for nanopore based rabies virus (RABV) sequencing. Pipelines are forked from the ARTIC networks base template (https://github.com/artic-network/artic-base) and modified to be RABV specific.
 
 # install  
